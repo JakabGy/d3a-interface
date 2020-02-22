@@ -1,4 +1,4 @@
-"""
+Delete all settings """
 Copyright 2018 Grid Singularity
 This file is part of D3A.
 
